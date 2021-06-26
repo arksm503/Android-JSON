@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List of data breach</string>
+    <string name="image">Thumbnail image</string>
+    <string name="breach_name_temp">Nama data</string>
+    <string name="year_temp">Tahun</string>
+    <string name="breach_content">Isi konten data</string>
+</resources>
